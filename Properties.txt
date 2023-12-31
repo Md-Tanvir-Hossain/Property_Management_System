@@ -1,0 +1,20 @@
+Rampura,EWU,AB2,20000,5000
+Shantinagar,Sky View,10B,1800,8000
+Bailey Road,Real-State,2A,1600,7000
+Mirpur,Hytope,3D,1500,6500
+Manda,Ishan-ltd,7C,1600,5000
+Gulshan,Bulbul,2A,1750,6000
+Shamoli,Shapla-House,7C,1550,9500
+Mogbazar,Imperial,3B,5500,5000
+Banani,Shomrita,9D,4500,6000
+Chowdhury Para,Milba-Bhavan,8D,1600,4500
+Rampura,EWU,AB2,20000,5000
+Shantinagar,Sky View,10B,1800,8000
+Bailey Road,Real-State,2A,1600,7000
+Mirpur,Hytope,3D,1500,6500
+Manda,Ishan-ltd,7C,7600,5000
+Gulshan,Bulbul,2A,1750,6000
+Shamoli,Shapla-House,7C,1550,9500
+Mogbazar,Imperial,3B,5500,5000
+Banani,Shomrita,9D,4500,6000
+Chowdhury Para,Milba-Bhavan,8D,1600,4500
